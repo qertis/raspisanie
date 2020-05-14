@@ -1,0 +1,13 @@
+{
+  "name": "raspisanie",
+  "version": "1.0.0",
+  "description": "Raspisanie Nodejs API",
+  "main": "index.js",
+  "keywords": [
+    "raspisanie",
+    "yandex",
+    "расписание"
+  ],
+  "author": "qertis",
+  "license": "MIT"
+}
